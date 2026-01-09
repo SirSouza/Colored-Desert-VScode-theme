@@ -1,0 +1,22 @@
+{
+	"name": "colored-desert",
+	"displayName": "Colored Desert",
+	"description": "Colored Desert traz a tranquilidade do deserto para o seu editor. Com um fundo suave em tons de areia e bege, este tema oferece contraste perfeito através de destaques coloridos vibrantes em magenta, laranja, verde e azul. Ideal para longas sessões de código, reduzindo o cansaço visual enquanto mantém seu código perfeitamente legível e esteticamente agradável. Perfeito para quem busca uma alternativa aos temas escuros tradicionais sem abrir mão do conforto visual.",
+	"publisher": "Anorak",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.80.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Colored Desert",
+				"uiTheme": "vs",
+				"path": "./themes/colored-desert-color-theme.json"
+			}
+		]
+	}
+}
