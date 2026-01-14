@@ -15,3 +15,6 @@
 ## 0.0.3 
 - Small fixes
 - Colors adjusment for a better reading 
+
+## 0.0.4
+- Change preview
