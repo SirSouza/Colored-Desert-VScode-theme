@@ -1,5 +1,7 @@
 # Colored Desert
 
+![Colored Desert](images/banner.png)
+
 Colored Desert brings the tranquility of the desert to your editor.
 A light, comfortable, and well-balanced theme, featuring sandy tones
 and vibrant highlights.
@@ -26,3 +28,6 @@ and vibrant highlights.
 ## 📝 Feedback
 
 Suggestions and issues are welcome!
+
+Projetct link
+https://github.com/SirSouza/Colored-Desert-VScode-theme
