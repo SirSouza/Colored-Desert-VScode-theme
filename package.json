@@ -3,7 +3,7 @@
 	"displayName": "Colored Desert",
 	"description": "A serene desert-inspired theme with soft sand tones and vibrant neon accents.",
 	"publisher": "devanorak",
-	"version": "0.0.8",
+	"version": "0.0.9",
 	"icon": "images/icon.png",
 	"engines": {
 		"vscode": "^1.80.0"
