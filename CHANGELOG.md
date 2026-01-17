@@ -22,3 +22,12 @@
 ## 0.0.5 
 - Change preview
 - Fix colors for list.highlightForeground
+
+## 0.0.6
+- Small fixes
+
+## 0.0.7
+- backgound color changed to a better beige ton
+
+## 0.0.8
+- Chage the foreground for icons
