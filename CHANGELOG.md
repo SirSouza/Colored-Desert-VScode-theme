@@ -18,3 +18,7 @@
 
 ## 0.0.4
 - Change preview
+
+## 0.0.5 
+- Change preview
+- Fix colors for list.highlightForeground
