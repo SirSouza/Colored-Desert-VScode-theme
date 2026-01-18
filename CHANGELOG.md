@@ -31,3 +31,12 @@
 
 ## 0.0.8
 - Chage the foreground for icons
+
+## 0.0.9
+- Small fixes
+
+## 0.0.10
+- Small fixes
+
+## 0.0.11
+- Fixed color icons in title bar
