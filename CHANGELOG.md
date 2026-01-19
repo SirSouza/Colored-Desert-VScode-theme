@@ -40,3 +40,6 @@
 
 ## 0.0.11
 - Fixed color icons in title bar
+
+## 0.0.12
+ -  editorSuggestWidget.selectedBackground from #ffffff to  #8f8e8e
