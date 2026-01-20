@@ -43,3 +43,6 @@
 
 ## 0.0.12
  -  editorSuggestWidget.selectedBackground from #ffffff to  #8f8e8e
+
+ ## 0.0.13
+ - Added a dark version and pastel-toned syntax highlighting for those who prefer it.
