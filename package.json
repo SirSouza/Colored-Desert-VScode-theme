@@ -3,7 +3,7 @@
 	"displayName": "Colored Desert",
 	"description": "A serene desert-inspired theme with soft sand tones and vibrant neon accents.",
 	"publisher": "devanorak",
-	"version": "0.0.12",
+	"version": "0.0.13",
 	"icon": "images/icon.png",
 	"engines": {
 		"vscode": "^1.80.0"
@@ -21,7 +21,19 @@
 			{
 				"label": "Colored Desert",
 				"uiTheme": "vs",
-				"path": "./themes/colored-desert-color-theme.json",
+				"path": "./themes/colored-desert.json",
+				"semanticHighlighting": false
+			},
+			{
+				"label": "Colored Desert Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/colored-desert-dark.json",
+				"semanticHighlighting": false
+			},
+			{
+				"label": "Colored Desert Pastel",
+				"uiTheme": "vs",
+				"path": "./themes/colored-desert-pastel.json",
 				"semanticHighlighting": false
 			}
 		]
